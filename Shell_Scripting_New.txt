@@ -1,6 +1,9 @@
 shell scripting
 ===============
 
+I am from L&T
+
+
 What is shell?
 
 -> shell refers to a user interface that allows users to interact with the operating system (OS) or execute commands. 
